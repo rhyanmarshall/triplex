@@ -1132,6 +1132,10 @@ button:focus:not(:focus-visible) {
     margin-top: 1rem;
   }
 
+  .hero-image {
+    margin-top: 120px;
+  }
+
   .site-header {
     background-position: bottom;
   }
